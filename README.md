@@ -42,18 +42,6 @@ I believe in building things from scratch to truly understand how they work — 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashAgarwalTheWiz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAgarwalTheWiz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <em>"The best way to understand intelligence is to build it."</em>
 </p>
