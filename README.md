@@ -36,7 +36,6 @@ I believe in building things from scratch to truly understand how they work — 
 |--------|-------------|------|
 | [🧠 Dev Tracker](https://github.com/YashAgarwalTheWiz/Fast_API_Dev_Tracker) | A full-stack DSA practice tracker with JWT auth, streak calendar, and progress charts | FastAPI, Streamlit, SQLite |
 | [🏥 RAG Medical Chatbot](https://github.com/YashAgarwalTheWiz/RAG-based-Medical-Chatbot) | Retrieval-Augmented Generation based medical Q&A chatbot | Python, LangChain, RAG |
-| [🎬 Movie Recommendation System](https://github.com/YashAgarwalTheWiz/Movie-recommendation-system) | Content-based movie recommender using ML similarity techniques | Python, Scikit-learn |
 | [🌐 Machine Translation](https://github.com/YashAgarwalTheWiz/Machine_Translation_using_Pytorch) | English-French neural machine translation using sequence-to-sequence models | PyTorch, NLP |
 | [🖼️ Image Captioning](https://github.com/YashAgarwalTheWiz/Image_Captioning) | Automatic image caption generation using CNN-LSTM architecture | PyTorch, Computer Vision |
 
